@@ -1,0 +1,7 @@
+:root {
+  --color-background: E5E5E5;
+}
+
+.projects {
+  background-color: var(--color-background);
+}
